@@ -1,6 +1,6 @@
-👋 Hii, I’m Neal!
+Hii, I’m Neal! 👋
 
-I love physics, and am an amateur astronomer. I also like Arduino and Raspberry Pi!
+I love Physics, and amateur astronomy. I also like Arduino and Raspberry Pi!
 
 You can email me at: nealcastleton06@gmail.com
 
